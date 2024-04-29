@@ -90,7 +90,7 @@ header {
     background: transparent;
     border: 2px solid rgb(255, 255,255, .5);
     border-radius: 20px;
-    backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px); /* mudar fosco do qualdro de login e registro */
     box-shadow: 0 0 30px #fff;
     display: flex;
     justify-content: center;
